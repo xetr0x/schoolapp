@@ -1,0 +1,8 @@
+C:\boredomFolder\SchoolApp\Program.cs\bin\Debug\Program.cs.exe.config
+C:\boredomFolder\SchoolApp\Program.cs\bin\Debug\Program.cs.exe
+C:\boredomFolder\SchoolApp\Program.cs\bin\Debug\Program.cs.pdb
+C:\boredomFolder\SchoolApp\Program.cs\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\boredomFolder\SchoolApp\Program.cs\obj\Debug\Program.csproj.SuggestedBindingRedirects.cache
+C:\boredomFolder\SchoolApp\Program.cs\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\boredomFolder\SchoolApp\Program.cs\obj\Debug\Program.cs.exe
+C:\boredomFolder\SchoolApp\Program.cs\obj\Debug\Program.cs.pdb

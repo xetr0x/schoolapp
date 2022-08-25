@@ -11,6 +11,7 @@ namespace Program.cs
         static void Main(string[] args)
         {
             Console.WriteLine("we are ready to go!");
+            Console.ReadLine();
         }
     }
 }
