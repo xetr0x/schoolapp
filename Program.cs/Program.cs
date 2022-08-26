@@ -3,15 +3,24 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Net.Http;
+
 
 namespace Program.cs
 {
     internal class Program
     {
-        static void Main(string[] args)
+        
+        public static void Main(string[] args)
         {
             Console.WriteLine("we are ready to go!");
-            Console.ReadLine();
+            Console.WriteLine("send the link to website u wanna scrape or the file");
+            
+
+
         }
+
+        
     }
 }
+
