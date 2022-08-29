@@ -1,0 +1,12 @@
+C:\boredomFolder\TextScrapingTool\Program.cs\bin\Debug\Program.cs.exe.config
+C:\boredomFolder\TextScrapingTool\Program.cs\bin\Debug\Program.cs.exe
+C:\boredomFolder\TextScrapingTool\Program.cs\bin\Debug\Program.cs.pdb
+C:\boredomFolder\TextScrapingTool\Program.cs\bin\Debug\HtmlAgilityPack.dll
+C:\boredomFolder\TextScrapingTool\Program.cs\bin\Debug\HtmlAgilityPack.pdb
+C:\boredomFolder\TextScrapingTool\Program.cs\bin\Debug\HtmlAgilityPack.xml
+C:\boredomFolder\TextScrapingTool\Program.cs\obj\Debug\TextScrapingTool.csproj.AssemblyReference.cache
+C:\boredomFolder\TextScrapingTool\Program.cs\obj\Debug\TextScrapingTool.csproj.SuggestedBindingRedirects.cache
+C:\boredomFolder\TextScrapingTool\Program.cs\obj\Debug\TextScrapingTool.csproj.CoreCompileInputs.cache
+C:\boredomFolder\TextScrapingTool\Program.cs\obj\Debug\TextScrapingTool.csproj.CopyComplete
+C:\boredomFolder\TextScrapingTool\Program.cs\obj\Debug\Program.cs.exe
+C:\boredomFolder\TextScrapingTool\Program.cs\obj\Debug\Program.cs.pdb
